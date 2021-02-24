@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.container {
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.box {
+font-family: 'Open Sans Condensed', sans-serif;    
+}
+canvas {
+  display: block;
+}
